@@ -14,4 +14,4 @@
 &nbsp;&nbsp; 3. 딥러닝 - [ fasti와 파이토치가 만나 꽃피운 딥러닝 ](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276915469&start=slayer)
 
 ## 독서목록
-1. [ code 2th ](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330301790&start=slayer) &nbsp;p.11
+1. [ code 2th ](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330301790&start=slayer) &nbsp;p.54
