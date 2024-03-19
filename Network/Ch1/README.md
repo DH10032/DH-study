@@ -30,6 +30,7 @@
   </details>
   <details>
     <summary>2계층</summary>
+    데이터 링크 계층 -> 물리계층으로 데이터 전달과정에서 외부 요인에 의한
   </details>
   <details>
     <summary>1계층</summary>
