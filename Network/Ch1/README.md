@@ -16,11 +16,9 @@
   <details>
     <summary>7계층</summary>
   </details>
-
   <details>
     <summary>6계층</summary>
   </details>
-  
   <details>
     <summary>5계층</summary>
   </details>
